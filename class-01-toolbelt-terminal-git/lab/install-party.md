@@ -42,4 +42,16 @@ You should get version number like `v8.2.1` as a response. If not, try reinstall
 
 ## Eslint
 
-Eslint is a linter that evaluates your code for syntax errors. 
+Eslint is a linter that evaluates your JavaScript for potential issues with style or syntax. We provide it with a set of rules to check for.
+
+### In VS Code
+
+Go to the `Extensions` panel and search for `ESlint`. Follow the instructions to install.
+
+### On your computer, using NPM
+
+In your terminal enter the following command: 
+
+`npm install -g eslint`
+
+This will install the eslint CLI (command line interface) allowing us to run a command and check our files. To make sure it install correctly, enter `eslint -v`. You should see a version number as a response.
