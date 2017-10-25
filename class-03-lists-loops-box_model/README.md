@@ -24,6 +24,10 @@
 
 ### Notes
 - code review
+    - work on noticing when your code is repetitive so you can make it DRY
+    - DRY = don't repeat yourself
+    - "It's only hypothetical until it's parenthetical." 
+        - so call your functions with their parenthesis! alert()
 
 - git
     - what's a remote repo?
