@@ -27,6 +27,15 @@
 - Understand the flow of forking and creating a pull request on GitHub.
 
 ### Notes
+- Code Review
+	- Fork and PR process
+		1. Fork a GH repo
+		2. Clone it
+		3. Work on it
+		4. A-C-P (add, commit, push)
+		5. Make a PR to the original repo
+			- The owner of the original repo can then *merge* the PR
+			- They would then `git pull` to their local machine 
 
 - JavaScript functions
 	- parts of a function
