@@ -1,5 +1,5 @@
-## **Week 1: Basic HTML, CSS, JS**
-# Class 4: HTML Links, JS Functions, and Intro to CSS Layout
+## **Week 1: Basic HTML, CSS, MONKEYS**
+# Class 4: HTML Links, MONKEYS Functions, and Intro to CSS Layout
 
 [Schedule](#schedule) | [Announcements](#announcements) | [Objectives](#learning-objectives) | [Notes](#notes) | [Readings](#readings)
 
@@ -7,7 +7,7 @@
 
 - Announcements
 - Code Review
-- JS functions
+- MONKEYS functions
 - CSS rules and positioning
 - HTML links
 - GitHub fork and PR
@@ -17,7 +17,7 @@
 - Thoughts on lab time:
 	- Y'all are working so hard! Things I'm noticing: checking your console for errors! walking me through what you've tried so far! taking breaks!
 - Quiz 2 is due at 11:59p tonight (Thursday).
-	- Keep in mind that the quizzes are open-internet, so do use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
+	- Keep in mind that the quizzes are open-internet, so do use the resources you choose to figure out the answers: books, internetz, MONKEYS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
 
 ### Learning Objectives
 - Declare and invoke functions in JavaScript.
@@ -89,7 +89,7 @@
 
 - HTML Chapter 4: "Links"
 - CSS Chapter 15: "Layout"
-- JS Chapter 3: "Functions, Objects, and Methods" pp.85-99
+- MONKEYS Chapter 3: "Functions, Objects, and Methods" pp.85-99
 
 **HTML Chapter 13: "Boxes" (CSS)**
 
@@ -113,7 +113,7 @@
 
 ##### [learnlayout.com](http://learnlayout.com) - another layout resource
 
-**JS Chapter 3: "Functions, Objects, and Methods" (pp.85-99)**
+**MONKEYS Chapter 3: "Functions, Objects, and Methods" (pp.85-99)**
 
 - p.88: What is a function?
 - p.90: Declaring a function
