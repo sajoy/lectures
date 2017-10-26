@@ -1,5 +1,6 @@
 # Code 201: Foundations of Software Development
 
+SJ, I did it! CP
 
 Welcome to Code 201! This class will build your foundational knowledge of HTML, CSS, JavaScript, Git, and general web development, to prepare you for the deep dive of Code 301.
 
