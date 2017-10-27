@@ -55,11 +55,12 @@ create a new branch for your work on the next question!
 
 // Write your code here
 function multiply(a,b){ //eslint-disable-line
-
+    const product = a * b;
+    return [product,'The product of ' + a + ' and ' + b + ' is ' + product + '.'];
 }
 
 // Here is the test for multiply(); uncomment it to run it
-// testMultiply();
+testMultiply();
 
 
 /////////////////////////////////////
