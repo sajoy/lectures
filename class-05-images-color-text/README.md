@@ -8,8 +8,8 @@
 ### Schedule
 1. Announcements
 1. Code Review
-1. HTML images and figures
 1. CSS Layout
+1. HTML images and figures
 1. Deploy to Github pages
 1. Lab prep
 
@@ -25,12 +25,7 @@
 - Understand CSS layout principles including block, inline, normal, relative, absolute, float, and fixed.
 
 ### Notes
-- Code Review
-- Repeat after me! for loops, functions
-- HTML
-	- links
-	- images
-	- figures
+- Code Review: Repeat after me! for loops, functions
 - CSS
 	- Cascading rules
 		- When do conflicting rules apply?
@@ -56,6 +51,10 @@
 			- inline
 			- flex
 				- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- HTML
+	- links
+	- images
+	- figures
 - Deploy to GH Pages
 	- include a `.gitignore` file
 	- make a useful README.md
