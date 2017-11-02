@@ -30,8 +30,14 @@
 - Create various types of layouts using CSS layout principles including block, inline, relative, absolute, float, and fixed.
 
 ## Notes
+* Code review
+    * [PR to Carmen's Cookies](https://github.com/crperezchica/cookie-stand/pull/3)
 * Review Topics
     * Where to find what for class
+    * event handlers and listeners
+    * the DOM
+    * constructor functions
+    * prototype methods
 * Wireframes
     * Plan a rough layout of your website
     * [wireframe.cc](https://wireframe.cc/)
@@ -56,12 +62,7 @@
         * rgba: red, green, blue, alpha
         * hsla: hue, saturation, lightness, alpha
             * [hslpicker](http://hslpicker.com)
-    * CSS reset: [normalize](https://necolas.github.io/normalize.css/)
-    * libraries
-        * [bootstrap](http://getbootstrap.com/)
-        * [skeleton](http://getskeleton.com/)
-        * [bulma](https://bulma.io/)
-        * [pure](https://purecss.io/)
+* [caniuse](http://caniuse.com/)
 
 <hr></hr>
 
