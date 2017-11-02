@@ -36,6 +36,26 @@
     * Plan a rough layout of your website
     * [wireframe.cc](https://wireframe.cc/)
 * CSS
+    * styling text
+        * font-family
+            * [web safe fonts](https://www.cssfontstack.com/)
+            * [google fonts](https://fonts.google.com/)
+        * font-size
+            * small, smaller, large
+            * px
+            * em
+            * rem
+        * font-weight
+        * color
+    * adding color
+        * color theme tools
+            * [coolors.co](http://coolors.co)
+        * named colors
+            * [wikipedia](https://en.wikipedia.org/wiki/Web_colors#X11_color_names)
+        * hex values
+        * rgba: red, green, blue, alpha
+        * hsla: hue, saturation, lightness, alpha
+            * [hslpicker](http://hslpicker.com)
     * CSS reset: [normalize](https://necolas.github.io/normalize.css/)
     * libraries
         * [bootstrap](http://getbootstrap.com/)
