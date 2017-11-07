@@ -14,10 +14,14 @@
 ### Announcements
 * Quiz 7 due tomorrow night! 
 * Feedback
-    * 
+    * Shift in mindset regarding stacked modules, non-academic environment.
+    * Code reviews are helpful - to break other people's code down and walk through it.
+    * Sitting in on the 401 presentations: a lot of unfamiliar info, but also cool to see how much you'll learn.
+    * Too many quizzes that aren't super helpful.
 * Project Week Info
     * 4th week = no lectures, no labs, all project work
-    * 4 teams: [3,3,3,4]
+    * 4 teams: [3,3,3,4] 
+        * Assigned on **Wednesday**
     * Think of 2-3 ideas, pitch to SJ & TA's Thursday afternoon
     * Basic requirements:
         * 3 pages
